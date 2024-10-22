@@ -1,4 +1,4 @@
-def aggregate_weather_data(records):
+def aggregate_weather_data(records) -> list:
     # Dictionary to hold the aggregated data
     aggregated_data = {}
     
