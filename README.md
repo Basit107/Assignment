@@ -56,3 +56,4 @@ To install the required library, run:
 
 ```bash
 pip install mysql-connector-python
+```
